@@ -1,0 +1,86 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="400" height="400">
+  <defs>
+    <linearGradient id="goldGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#EBD082" />
+      <stop offset="45%" stop-color="#C39B42" />
+      <stop offset="100%" stop-color="#87641E" />
+    </linearGradient>
+    <linearGradient id="goldBezel" x1="100%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#F2DA91" />
+      <stop offset="50%" stop-color="#B88E38" />
+      <stop offset="100%" stop-color="#7E5B19" />
+    </linearGradient>
+  </defs>
+  <g id="outer-scalloped-seal">
+    <path id="seal-scallop-base" d="M 200.00 26.00 Q 231.47 1.32 253.77 34.52 Q 291.32 20.77 302.27 59.23 Q 342.24 57.76 340.77 97.73 Q 379.23 108.68 365.48 146.23 Q 398.68 168.53 374.00 200.00 Q 398.68 231.47 365.48 253.77 Q 379.23 291.32 340.77 302.27 Q 342.24 342.24 302.27 340.77 Q 291.32 379.23 253.77 365.48 Q 231.47 398.68 200.00 374.00 Q 168.53 398.68 146.23 365.48 Q 108.68 379.23 97.73 340.77 Q 57.76 342.24 59.23 302.27 Q 20.77 291.32 34.52 253.77 Q 1.32 231.47 26.00 200.00 Q 1.32 168.53 34.52 146.23 Q 20.77 108.68 59.23 97.73 Q 57.76 57.76 97.73 59.23 Q 108.68 20.77 146.23 34.52 Q 168.53 1.32 200.00 26.00 Z" fill="url(#goldGrad)" stroke="#6E5016" stroke-width="2" />
+    <path id="seal-scallop-inner-rim" d="M 200.00 31.00 Q 230.30 8.71 252.22 39.27 Q 287.92 27.44 299.34 63.28 Q 336.95 63.05 336.72 100.66 Q 372.56 112.08 360.73 147.78 Q 391.29 169.70 369.00 200.00 Q 391.29 230.30 360.73 252.22 Q 372.56 287.92 336.72 299.34 Q 336.95 336.95 299.34 336.72 Q 287.92 372.56 252.22 360.73 Q 230.30 391.29 200.00 369.00 Q 169.70 391.29 147.78 360.73 Q 112.08 372.56 100.66 336.72 Q 63.05 336.95 63.28 299.34 Q 27.44 287.92 39.27 252.22 Q 8.71 230.30 31.00 200.00 Q 8.71 169.70 39.27 147.78 Q 27.44 112.08 63.28 100.66 Q 63.05 63.05 100.66 63.28 Q 112.08 27.44 147.78 39.27 Q 169.70 8.71 200.00 31.00 Z" fill="none" stroke="#F4DF9D" stroke-width="1.2" opacity="0.7" />
+  </g>
+  <g id="charcoal-ring-track">
+    <circle id="ring-dark-bg" cx="200" cy="200" r="163" fill="#262626" stroke="#87641E" stroke-width="2.5" />
+    <circle id="ring-hairline-outer" cx="200" cy="200" r="158" fill="none" stroke="#B88E38" stroke-width="0.8" opacity="0.55" />
+    <circle id="ring-hairline-inner" cx="200" cy="200" r="138" fill="none" stroke="#B88E38" stroke-width="0.8" opacity="0.55" />
+  </g>
+  <g id="ring-stars">
+    <polygon points="200.00,44.50 201.88,49.41 207.13,49.68 203.04,52.99 204.41,58.07 200.00,55.20 195.59,58.07 196.96,52.99 192.87,49.68 198.12,49.41" fill="#EFE6CE" />
+    <polygon points="274.00,65.63 274.69,70.17 278.38,67.44 275.66,71.14 280.20,71.83 275.66,72.52 278.38,76.21 274.69,73.49 274.00,78.03 273.31,73.49 269.62,76.21 272.34,72.52 267.80,71.83 272.34,71.14 269.62,67.44 273.31,70.17" fill="#D4AF5A" />
+    <polygon points="334.67,122.25 331.35,126.33 333.75,131.02 328.84,129.13 325.12,132.85 325.40,127.60 320.71,125.22 325.79,123.86 326.61,118.66 329.47,123.08" fill="#EFE6CE" />
+    <polygon points="348.00,193.80 348.69,198.34 352.38,195.62 349.66,199.31 354.20,200.00 349.66,200.69 352.38,204.38 348.69,201.66 348.00,206.20 347.31,201.66 343.62,204.38 346.34,200.69 341.80,200.00 346.34,199.31 343.62,195.62 347.31,198.34" fill="#D4AF5A" />
+    <polygon points="334.67,277.75 329.47,276.92 326.61,281.34 325.79,276.14 320.71,274.78 325.40,272.40 325.12,267.15 328.84,270.87 333.75,268.98 331.35,273.67" fill="#EFE6CE" />
+    <polygon points="274.00,321.97 274.69,326.51 278.38,323.79 275.66,327.48 280.20,328.17 275.66,328.86 278.38,332.56 274.69,329.83 274.00,334.37 273.31,329.83 269.62,332.56 272.34,328.86 267.80,328.17 272.34,327.48 269.62,323.79 273.31,326.51" fill="#D4AF5A" />
+    <polygon points="200.00,355.50 198.12,350.59 192.87,350.32 196.96,347.01 195.59,341.93 200.00,344.80 204.41,341.93 203.04,347.01 207.13,350.32 201.88,350.59" fill="#EFE6CE" />
+    <polygon points="126.00,321.97 126.69,326.51 130.38,323.79 127.66,327.48 132.20,328.17 127.66,328.86 130.38,332.56 126.69,329.83 126.00,334.37 125.31,329.83 121.62,332.56 124.34,328.86 119.80,328.17 124.34,327.48 121.62,323.79 125.31,326.51" fill="#D4AF5A" />
+    <polygon points="65.33,277.75 68.65,273.67 66.25,268.98 71.16,270.87 74.88,267.15 74.60,272.40 79.29,274.78 74.21,276.14 73.39,281.34 70.53,276.92" fill="#EFE6CE" />
+    <polygon points="52.00,193.80 52.69,198.34 56.38,195.62 53.66,199.31 58.20,200.00 53.66,200.69 56.38,204.38 52.69,201.66 52.00,206.20 51.31,201.66 47.62,204.38 50.34,200.69 45.80,200.00 50.34,199.31 47.62,195.62 51.31,198.34" fill="#D4AF5A" />
+    <polygon points="65.33,122.25 70.53,123.08 73.39,118.66 74.21,123.86 79.29,125.22 74.60,127.60 74.88,132.85 71.16,129.13 66.25,131.02 68.65,126.33" fill="#EFE6CE" />
+    <polygon points="126.00,65.63 126.69,70.17 130.38,67.44 127.66,71.14 132.20,71.83 127.66,72.52 130.38,76.21 126.69,73.49 126.00,78.03 125.31,73.49 121.62,76.21 124.34,72.52 119.80,71.83 124.34,71.14 121.62,67.44 125.31,70.17" fill="#D4AF5A" />
+  </g>
+  <g id="inner-gold-bezel">
+    <circle id="bezel-ring" cx="200" cy="200" r="133" fill="url(#goldBezel)" />
+    <circle id="center-cream-medallion" cx="200" cy="200" r="124" fill="#F7F3E8" stroke="#87641E" stroke-width="1.5" />
+    <circle id="center-inner-rule" cx="200" cy="200" r="115" fill="none" stroke="#C39B42" stroke-width="1" stroke-dasharray="3 3" />
+  </g>
+  <g id="center-laurel-wreath">
+    <path id="wreath-stem-left" d="M 169.28 281.03 A 82 82 0 0 1 151.80 138.66" fill="none" stroke="#87641E" stroke-width="2.2" stroke-linecap="round" />
+    <path id="wreath-stem-right" d="M 230.72 281.03 A 82 82 0 0 0 248.20 138.66" fill="none" stroke="#87641E" stroke-width="2.2" stroke-linecap="round" />
+    <ellipse cx="155.97" cy="281.19" rx="4" ry="10.5" transform="rotate(-86.0 155.97 281.19)" fill="url(#goldGrad)" />
+    <ellipse cx="161.73" cy="271.24" rx="3.6" ry="9" transform="rotate(-32.0 161.73 271.24)" fill="#9E792C" />
+    <ellipse cx="133.57" cy="262.71" rx="4" ry="10.5" transform="rotate(-67.0 133.57 262.71)" fill="url(#goldGrad)" />
+    <ellipse cx="142.25" cy="255.17" rx="3.6" ry="9" transform="rotate(-13.0 142.25 255.17)" fill="#9E792C" />
+    <ellipse cx="118.40" cy="237.95" rx="4" ry="10.5" transform="rotate(-48.0 118.40 237.95)" fill="url(#goldGrad)" />
+    <ellipse cx="129.06" cy="233.64" rx="3.6" ry="9" transform="rotate(6.0 129.06 233.64)" fill="#9E792C" />
+    <ellipse cx="112.12" cy="209.59" rx="4" ry="10.5" transform="rotate(-29.0 112.12 209.59)" fill="url(#goldGrad)" />
+    <ellipse cx="123.60" cy="208.99" rx="3.6" ry="9" transform="rotate(25.0 123.60 208.99)" fill="#9E792C" />
+    <ellipse cx="115.41" cy="180.73" rx="4" ry="10.5" transform="rotate(-10.0 115.41 180.73)" fill="url(#goldGrad)" />
+    <ellipse cx="126.47" cy="183.90" rx="3.6" ry="9" transform="rotate(44.0 126.47 183.90)" fill="#9E792C" />
+    <ellipse cx="127.92" cy="154.52" rx="4" ry="10.5" transform="rotate(9.0 127.92 154.52)" fill="url(#goldGrad)" />
+    <ellipse cx="137.34" cy="161.12" rx="3.6" ry="9" transform="rotate(63.0 137.34 161.12)" fill="#9E792C" />
+    <ellipse cx="148.27" cy="133.81" rx="4" ry="10.5" transform="rotate(28.0 148.27 133.81)" fill="url(#goldGrad)" />
+    <ellipse cx="155.03" cy="143.11" rx="3.6" ry="9" transform="rotate(82.0 155.03 143.11)" fill="#9E792C" />
+    <ellipse cx="244.03" cy="281.19" rx="4" ry="10.5" transform="rotate(86.0 244.03 281.19)" fill="url(#goldGrad)" />
+    <ellipse cx="238.27" cy="271.24" rx="3.6" ry="9" transform="rotate(32.0 238.27 271.24)" fill="#9E792C" />
+    <ellipse cx="266.43" cy="262.71" rx="4" ry="10.5" transform="rotate(67.0 266.43 262.71)" fill="url(#goldGrad)" />
+    <ellipse cx="257.75" cy="255.17" rx="3.6" ry="9" transform="rotate(13.0 257.75 255.17)" fill="#9E792C" />
+    <ellipse cx="281.60" cy="237.95" rx="4" ry="10.5" transform="rotate(48.0 281.60 237.95)" fill="url(#goldGrad)" />
+    <ellipse cx="270.94" cy="233.64" rx="3.6" ry="9" transform="rotate(-6.0 270.94 233.64)" fill="#9E792C" />
+    <ellipse cx="287.88" cy="209.59" rx="4" ry="10.5" transform="rotate(29.0 287.88 209.59)" fill="url(#goldGrad)" />
+    <ellipse cx="276.40" cy="208.99" rx="3.6" ry="9" transform="rotate(-25.0 276.40 208.99)" fill="#9E792C" />
+    <ellipse cx="284.59" cy="180.73" rx="4" ry="10.5" transform="rotate(10.0 284.59 180.73)" fill="url(#goldGrad)" />
+    <ellipse cx="273.53" cy="183.90" rx="3.6" ry="9" transform="rotate(-44.0 273.53 183.90)" fill="#9E792C" />
+    <ellipse cx="272.08" cy="154.52" rx="4" ry="10.5" transform="rotate(-9.0 272.08 154.52)" fill="url(#goldGrad)" />
+    <ellipse cx="262.66" cy="161.12" rx="3.6" ry="9" transform="rotate(-63.0 262.66 161.12)" fill="#9E792C" />
+    <ellipse cx="251.73" cy="133.81" rx="4" ry="10.5" transform="rotate(-28.0 251.73 133.81)" fill="url(#goldGrad)" />
+    <ellipse cx="244.97" cy="143.11" rx="3.6" ry="9" transform="rotate(-82.0 244.97 143.11)" fill="#9E792C" />
+    <polygon id="wreath-tie-diamond" points="200,275 206,281 200,287 194,281" fill="#F26522" />
+  </g>
+  <g id="center-merit-star">
+    <polygon points="200.00,109.00 204.82,121.37 218.07,122.13 207.80,130.53 211.17,143.37 200.00,136.20 188.83,143.37 192.20,130.53 181.93,122.13 195.18,121.37" fill="url(#goldGrad)" stroke="#7E5B19" stroke-width="1.5" />
+    <polygon points="200.00,118.50 202.41,124.68 209.04,125.06 203.90,129.27 205.58,135.69 200.00,132.10 194.42,135.69 196.10,129.27 190.96,125.06 197.59,124.68" fill="#FFF9EA" />
+  </g>
+  <g id="center-typography">
+    <text id="label-top" x="200" y="182" text-anchor="middle" font-family="Georgia, serif" font-size="12" font-weight="bold" letter-spacing="3" fill="#262626">OFFICIAL</text>
+    <line id="rule-top" x1="150" y1="191" x2="250" y2="191" stroke="#C39B42" stroke-width="1.2" />
+    <text id="label-main" x="200" y="212" text-anchor="middle" font-family="Georgia, serif" font-size="15.5" font-weight="bold" letter-spacing="1.4" fill="#1A1A1A">EXCELLENCE</text>
+    <line id="rule-bottom" x1="150" y1="221" x2="250" y2="221" stroke="#C39B42" stroke-width="1.2" />
+    <text id="label-sub" x="200" y="239" text-anchor="middle" font-family="Arial, sans-serif" font-size="10.5" font-weight="bold" letter-spacing="2.5" fill="#F26522">VERIFIED</text>
+  </g>
+</svg>
